@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: S7V30V2.GBR   2025-01-15  11:42:39
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Component Side                          
+.G1                 Inner1                                  
+.GP1                Inner2                                  
+.GP2                Inner3                                  
+.G2                 Inner4                                  
+.GBL                Solder Side                             
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GD1                Drill Drawing                           
+.GD2                Drill Drawing                           
+.GD3                Drill Drawing                           
+.GG1                Drill Guide                             
+.GG2                Drill Guide                             
+.GG3                Drill Guide                             
+------------------------------------------------------------------------------------------

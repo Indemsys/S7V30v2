@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: D:\Embedded\Projects\OpenSource\S7V30v2\Module_SCH_PCB\S7V30V2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=s7v30v2-roundholes.txt|DrillLayers=gtl,g1,gp1,gp2,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=s7v30v2-slotholes.txt|DrillLayers=gtl,g1,gp1,gp2,g2,gbl
+LayersSetName=Component Side_Inner1_Blind_Vias|DrillFile=s7v30v2-roundholes.tx3|DrillLayers=gtl,g1
+LayersSetName=Inner4_Solder Side_Blind_Vias|DrillFile=s7v30v2-roundholes.tx4|DrillLayers=g2,gbl
